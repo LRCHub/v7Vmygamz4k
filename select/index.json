@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "SURREAL",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-01T20:40:23.473051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "He Took Her to a Movie - Surreal Madrid Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_He_Took_Her_to_a_Movie_-_Surreal_Madrid_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Surreal Exposure",
+      "artist": "Ducktails",
+      "has_synced": false,
+      "path": "select/02_Surreal_Exposure_Ducktails.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep It Surreal",
+      "artist": "Ride",
+      "has_synced": false,
+      "path": "select/03_Keep_It_Surreal_Ride.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Getting Surreal",
+      "artist": "The Fratellis",
+      "has_synced": true,
+      "path": "select/04_Getting_Surreal_The_Fratellis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Surreal",
+      "artist": "Louis Futon feat. RKCB",
+      "has_synced": true,
+      "path": "select/05_Surreal_Louis_Futon_feat._RKCB.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Surreal",
+      "artist": "Louis Futon, RKCB",
+      "has_synced": true,
+      "path": "select/06_Surreal_Louis_Futon,_RKCB.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SURREAL (Marc et Claude remix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/07_SURREAL_(Marc_et_Claude_remix)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SURREAL \"Marc et Claude remix\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/08_SURREAL__Marc_et_Claude_remix_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SURREAL",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/09_SURREAL_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SURREAL",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/10_SURREAL_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Surreal Medley",
+      "artist": "Euzen",
+      "has_synced": false,
+      "path": "select/11_Surreal_Medley_Euzen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh, So Surreal",
+      "artist": "Otep",
+      "has_synced": true,
+      "path": "select/12_Oh,_So_Surreal_Otep.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SURREAL",
+      "artist": "AB6IX",
+      "has_synced": true,
+      "path": "select/13_SURREAL_AB6IX.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Surreal",
+      "artist": "Scalene",
+      "has_synced": true,
+      "path": "select/14_Surreal_Scalene.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Surreal (A Best - 15th Anniversary Edition)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/15_Surreal_(A_Best_-_15th_Anniversary_Edition)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SURREAL",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_SURREAL_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Surrealisme",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_Surrealisme_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Surreal",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_03_Surreal_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SURREAL",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_04_SURREAL_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SURREAL",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_05_SURREAL_浜崎_あゆみ.txt"
+    }
+  ]
+}
